@@ -1,3 +1,2 @@
 site_name: My Docs
-site_url: https://peaceful-harbor-69263.herokuapp.com/
-dev_addr: mkdocs serve --dev-addr=https://peaceful-harbor-69263.herokuapp.com/
+site_url: https://peaceful-harbor-69263.herokuapp.com:8080

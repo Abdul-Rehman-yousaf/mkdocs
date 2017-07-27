@@ -1,1 +1,1 @@
-web: sh -c 'cd ./istio-doc/ && exec mkdocs serve'
+web: sh -c 'cd ./istio-doc/ && exec mkdocs serve -p $PORT'
